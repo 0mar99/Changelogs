@@ -1,0 +1,13 @@
+Device Changelog
+=========
+
+06/07/2026
+----------
+- Blobs and firmware from OOS 16.0.7.200
+- Switched to Lineage common libqti-perfd-client and power-libperfmgr
+- Included Sony Dolby and Lunaris Dolby UI, with working AC4 decoders
+- Included haptic effect styles from YAAP (sound & vibration > vibration & haptics)
+- Added proper kernel support for High Touch Polling Rate from YAAP
+- Added Enhanced HDR brightness entries to display config
+- Included OnePlusIR, GameBar and BCR
+- Adjusted ambient display and AOD brigthness
