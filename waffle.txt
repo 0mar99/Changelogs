@@ -1,6 +1,11 @@
 Device Changelog
 =========
 
+06/20/2026
+----------
+- Switched back to QTI perf
+- Upstreamed kernel to 6.1.173
+
 06/07/2026
 ----------
 - Blobs and firmware from OOS 16.0.7.200
