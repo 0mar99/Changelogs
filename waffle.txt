@@ -1,5 +1,8 @@
 Device Changelog
 =========
+07/06/2026
+----------
+- Updated blobs and firmware from OOS 16.0.8.300
 
 06/20/2026
 ----------
