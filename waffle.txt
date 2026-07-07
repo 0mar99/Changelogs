@@ -1,5 +1,10 @@
 Device Changelog
 =========
+
+07/07/2026
+----------
+- Add back Dolby Atmos (oops)
+
 07/06/2026
 ----------
 - Updated blobs and firmware from OOS 16.0.8.300
