@@ -1,6 +1,10 @@
 Device Changelog
 =========
 
+07/12/2026
+----------
+- Upstreamed kernel to 6.1.174
+
 07/07/2026
 ----------
 - Add back Dolby Atmos (oops)
